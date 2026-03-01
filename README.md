@@ -2,7 +2,7 @@
 
 A small educational repository containing Jupyter notebooks that explore key concepts in gradient descent, bivariate normal distributions, and Bayesian inference. This project was created as part of a formative assessment (Formative 3) and includes example analyses using real-world datasets.
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 Formative_3_Part_1.ipynb   # Gradient descent demonstrations
@@ -14,7 +14,7 @@ Datasets/                  # CSV data files used in the notebooks
 README.md                  # This file
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 These notebooks can be executed using any Python environment with Jupyter support. We recommend using a virtual environment and installing dependencies via `pip`.
 
@@ -44,7 +44,7 @@ These notebooks can be executed using any Python environment with Jupyter suppor
    ```
 5. Open the notebooks from the Jupyter interface and run the cells sequentially.
 
-## 🧠 Notebook Overview
+##  Notebook Overview
 
 - **Formative_3_Part_1.ipynb** – Demonstrates gradient descent algorithms, including visualization of loss function minimization and learning rate effects.
 - **Formative_3_Part_2_.ipynb** – Analyzes bivariate normal distributions, computing correlations and plotting contour graphs of probability densities.
@@ -52,7 +52,7 @@ These notebooks can be executed using any Python environment with Jupyter suppor
 
 Each notebook contains explanatory text, code cells, and visualizations to assist with learning the underlying mathematics and programming techniques.
 
-## 📊 Datasets
+##  Datasets
 
 The `Datasets/` folder includes sample data used within the notebooks:
 
@@ -61,7 +61,7 @@ The `Datasets/` folder includes sample data used within the notebooks:
 
 Feel free to add your own datasets or modify existing ones for experimentation.
 
-## 📝 Contribution
+##  Contribution
 
 This project is primarily educational. Contributions can include:
 
