@@ -71,7 +71,7 @@ This project is primarily educational. Contributions can include:
 
 Fork the repo, make your changes, and submit a pull request.
 
-## 📄 License
+##  License
 
 This repository is provided for educational purposes. No license is specified; treat it as [CC0](https://creativecommons.org/publicdomain/zero/1.0/) if you wish to reuse the content.
 
